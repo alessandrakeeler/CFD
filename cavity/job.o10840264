@@ -1,6 +1,0 @@
-/work2/08353/askeeler/stampede2/COE-347-SP23/cavity
-Tue Jan 24 10:46:05 CST 2023
-blockMesh already run on /work2/08353/askeeler/stampede2/COE-347-SP23/cavity: remove log file 'log.blockMesh' to re-run
-checkMesh already run on /work2/08353/askeeler/stampede2/COE-347-SP23/cavity: remove log file 'log.checkMesh' to re-run
-icoFoam already run on /work2/08353/askeeler/stampede2/COE-347-SP23/cavity: remove log file 'log.icoFoam' to re-run
-Tue Jan 24 10:46:05 CST 2023
