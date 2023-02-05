@@ -16,5 +16,5 @@ Wall clock time: 45 seconds
 
 
 160 by 160 grid with time step 0.000624
-Wall clock time: 6 min 44 seconds
+Wall clock time: 6 min 59 seconds
 40 time steps between 0 and .5 seconds
