@@ -9,12 +9,12 @@ Wall clock time: 20 seconds
 
 
 
-80 by 80 grid with time step 0.0025
+80 by 80 grid with time step 0.00125
 Wall clock time: 45 seconds 
 20 time steps between 0 and .5 seconds
 
 
 
-160 by 160 grid with time step 0.00125
+160 by 160 grid with time step 0.000624
 Wall clock time: 6 min 44 seconds
 40 time steps between 0 and .5 seconds
