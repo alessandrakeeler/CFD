@@ -7,12 +7,12 @@
 \*---------------------------------------------------------------------------*/
 Build  : 7-49b2b3b8b082
 Exec   : checkMesh
-Date   : Mar 02 2023
-Time   : 14:50:51
-Host   : "c469-084.stampede2.tacc.utexas.edu"
-PID    : 165422
+Date   : Mar 04 2023
+Time   : 15:24:05
+Host   : "c401-114.stampede2.tacc.utexas.edu"
+PID    : 159789
 I/O    : uncollated
-Case   : /work2/08353/askeeler/stampede2/CFD/project_2/mesh_b_2
+Case   : /work2/08353/askeeler/stampede2/CFD/project_2/meshes/mesh_b_2
 nProcs : 1
 sigFpe : Enabling floating point exception trapping (FOAM_SIGFPE).
 fileModificationChecking : Monitoring run-time modified files using timeStampMaster (fileModificationSkew 10)

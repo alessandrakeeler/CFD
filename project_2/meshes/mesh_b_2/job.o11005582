@@ -1,0 +1,6 @@
+/work2/08353/askeeler/stampede2/CFD/project_2/meshes/mesh_b_2
+Sat Mar  4 15:23:53 CST 2023
+Running blockMesh on /work2/08353/askeeler/stampede2/CFD/project_2/meshes/mesh_b_2
+Running checkMesh on /work2/08353/askeeler/stampede2/CFD/project_2/meshes/mesh_b_2
+Running icoFoam on /work2/08353/askeeler/stampede2/CFD/project_2/meshes/mesh_b_2
+Sat Mar  4 16:08:04 CST 2023
